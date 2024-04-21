@@ -2,11 +2,11 @@
 
 ## i.Group Members
 
-| No        | Name                      | Matrix        | GitHub         |
-| --------------------------------------|:-------------:| ----------:    |
-| Muhammad Zayyad Bin Badrul Hisham     | A23CS3015     | `tez0ice`        |
-| Mahmoud Mustafa Mahmoud Elganzory     |              | `MElganzory`     |
-| Mohamed Omar Mohamed Makhlouf         |              | `Mhdomer`        |    
+| No | Name                               | Matrix    | GitHub       |
+|----|------------------------------------|-----------|--------------|
+| 1  | Muhammad Zayyad Bin Badrul Hisham | A23CS3015 | `tez0ice`    |
+| 2  | Mahmoud Mustafa Mahmoud Elganzory  |           | `MElganzory` |
+| 3  | Mohamed Omar Mohamed Makhlouf      |           | `Mhdomer`    |
 
 ## 1.Synopsis
 
