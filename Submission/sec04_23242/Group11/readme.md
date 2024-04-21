@@ -4,9 +4,9 @@
 
 | No        | Name                      | Matrix        | GitHub         |
 | --------------------------------------|:-------------:| ----------:    |
-| Muhammad Zayyad Bin Badrul Hisham     | A23CS3015     | tez0ice        |
-| Mahmoud Mustafa Mahmoud Elganzory     | -             | MElganzory     |
-| Mohamed Omar Mohamed Makhlouf         | -             | Mhdomer        |    
+| Muhammad Zayyad Bin Badrul Hisham     | A23CS3015     | `tez0ice`        |
+| Mahmoud Mustafa Mahmoud Elganzory     |              | `MElganzory`     |
+| Mohamed Omar Mohamed Makhlouf         |              | `Mhdomer`        |    
 
 ## 1.Synopsis
 
